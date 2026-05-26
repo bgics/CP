@@ -2,7 +2,7 @@
 
 file_name=$1
 
-echo "#include <bits/stdc++.h>
+echo "#include <iostream>
 using namespace std;
 
 #define ll long long
